@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.test{
+    /* padding: 0px 0px; */
+}
+.icon{
+    color: tomato;
+    
+}
+.click {
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    display: block;
+    margin-left: -13px;
+}
+.navber{
+    padding:0px 20px;
+}
+.nav-button{
+    color: tomato;
+    border-color:tomato;
+}
+.nav-button:hover{
+    background: rgb(14, 187, 240);
+    border-color:rgb(12, 188, 241) ;
+   
+}
+
+
+
+/* Banner */
+.banner{
+    background:url(./image/8.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: top center;
+    padding: 200px 0;
+    
+
+}
+
+.h5 {
+    margin-bottom: 20px;
+}
+.button-default{
+    margin-top: 30px;
+    padding: 4px 10px;
+    color: #fff;
+    border-color: tomato;
+
+}
+
+/* Slider */
+
+.slider {
+    background: rgb(241, 237, 237);
+    padding: 50px 0;
+    position: relative;
+    top: -57px;
+    left: 0;
+}
+.slider-item{
+    margin-top: 40px;
+}
+.h3.mt-5 {
+    margin-bottom: 30px;
+}
+/* temp */
+.default{
+    padding: 4px 10px;
+    color: tomato;
+    border-color: tomato;
+}
+.h{
+    color: rgb(85, 81, 81);
+    margin-top: 20px;
+}
+.list-one{
+    background: rgb(241, 237, 237);
+    margin-top: 80px;
+}
+
